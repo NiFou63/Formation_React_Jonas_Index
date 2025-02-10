@@ -1,2 +1,6 @@
-# Formation_React_Jonas_Index
-Repository to index repositories of the React formation by Jonas Schmedtmann on Udemy
+# React formation (Udemy, by Jonas Schmedtmann)
+- Repository index
+
+[Pizza menu](https://github.com/NiFou63/Udemy_React_Jonas_PizzaMenu)
+
+
