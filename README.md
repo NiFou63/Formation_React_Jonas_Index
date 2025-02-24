@@ -2,6 +2,8 @@
 
 ## Index of the repositories
 
+- [Atomic blog](https://github.com/NiFou63/Udemy_React_Jonas_Atomic_Blog)
+
 - [Worldwise](https://github.com/NiFou63/Udemy_React_Jonas_Worldwise)
 
 - [React Quiz](https://github.com/NiFou63/Udemy_React_Jonas_React_Quiz)
